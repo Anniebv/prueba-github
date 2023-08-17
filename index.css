@@ -1,0 +1,39 @@
+.bg-body-tertiary {
+    background-color:lightblue !important ;
+    height: 90px;
+}
+
+.row {
+    margin: 0;
+    padding: 0;
+}
+
+.col-3 {
+    background-color: red;
+    height: 400px;
+}
+
+.col-9 {
+    background-color: green;
+    height: 400px;
+    align-content: center;
+}
+
+.col {
+    background-color: yellow;
+    height: 250px;
+    display: flex;
+    float: left;
+    width: 31%;
+    margin: 1%;
+    align-content: center;
+}
+
+.colum-costum {
+    text-align: center;
+}
+
+footer {
+    background-color: purple;
+    height: 200px;
+}
